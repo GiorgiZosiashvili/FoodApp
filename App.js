@@ -1,5 +1,5 @@
 import { StatusBar } from "expo-status-bar";
-import { SafeAreaView, StyleSheet, Text, View, FlatList } from "react-native";
+import { SafeAreaView, StyleSheet, View } from "react-native";
 import Header from "./src/Components/Header";
 import Search from "./src/Components/Search";
 import React, { useState } from "react";

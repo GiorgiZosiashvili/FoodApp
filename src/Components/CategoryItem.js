@@ -1,7 +1,6 @@
 import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React from "react";
 import { elevation } from "../common/styles";
-import Pressable from "react-native/Libraries/Components/Pressable/Pressable";
 
 const CategoryItem = ({ name, imageURL, index, active, onPress }) => {
   return (
